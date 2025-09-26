@@ -6,33 +6,50 @@
 
 ### I code with:
 
-<style>
-.badge-card {
-  display: inline-block;
-  border: 2px solid #ccc;
-  border-radius: 10px;
-  padding: 8px;
-  margin: 5px;
-  transition: all 0.3s ease;
-}
-.badge-card:hover {
-  border-color: #0078ff;
-  transform: scale(1.1);
-}
-</style>
+### I code with:
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<p align="center">
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img class="badge-card" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
-</p>
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </div>
+
+  <div style="border:2px solid #39d353; border-radius:10px; padding:15px; width:80px; text-align:center; box-shadow:0 0 10px #39d353;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  </div>
+
 </div>
-
 ---
 
 ## 🚀 About Me
