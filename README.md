@@ -22,9 +22,9 @@
 
 ## 🚀 About Me
 <div align="center">
-I’m a results-driven **Back-End Developer** who thrives on solving intricate challenges and crafting **high-performance, scalable systems**.<br><br>
-⚡ Skilled in **Docker**, **Git**, and modern back-end frameworks, I deliver **clean, maintainable, production-ready code** every time.<br><br>
-✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
+I’m a results-driven Back-End Developer who thrives on solving intricate challenges and crafting high-performance, scalable systems.<br><br>
+⚡ Skilled in <b>Docker<b>,<b>Git<b>, and modern back-end frameworks, I deliver clean, maintainable, production-ready code every time.<br><br>
+✨ Life Motto: _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
 </div>
 
 ---
