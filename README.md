@@ -1,11 +1,27 @@
-<div align="center" style="border:3px solid #39d353; border-radius:15px; padding:25px; margin:15px; box-shadow: 0 0 20px #39d353;">
+<!-- Outer Container -->
+<div align="center" style="border: 3px solid #39d353; border-radius: 15px; padding: 30px; margin: 20px; box-shadow: 0 0 20px #39d353; background-color: #0d1117; color: #c9d1d9;">
 
-# 👋🏻💻 Hi, I’m Mehdi Aghasi
+<!-- Profile Section -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsd2sxcHB5bmZyd3V4eG92eml2djdqdTBsajFzc2cwM2EzcWVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="150" align="right" alt="Coding GIF" style="border-radius: 10px; box-shadow: 0 0 10px #39d353;"/>
+
+# 👋🏻💻 Hi, I’m Mehdi Aghasi  
+### Back-End Developer | .NET Core | SQL Server | Docker
 
 ---
 
-### I code with:
-<div align="center" style="border:3px solid #39d353; border-radius:15px; padding:20px; display:inline-block;">
+## 🚀 About Me
+
+🎯 I’m a results-driven developer passionate about solving complex problems and building scalable systems.  
+🛠️ I write clean, maintainable, production-ready code using modern frameworks and best practices.  
+💡 I believe in continuous learning and fearless coding.  
+
+> **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_
+
+---
+
+## 🧠 I Code With
+
+<div align="center" style="border: 2px dashed #39d353; border-radius: 10px; padding: 15px; display: inline-block; background-color: #161b22;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" style="margin:5px;"/>
@@ -20,16 +36,8 @@
 
 ---
 
-## 🚀 About Me
-<div align="center">
-I’m a results-driven **Back-End Developer** who thrives on solving intricate challenges and crafting **high-performance, scalable systems**.<br><br>
-⚡ Skilled in **Docker**, **Git**, and modern back-end frameworks, I deliver **clean, maintainable, production-ready code** every time.<br><br>
-✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
-</div>
+## 📫 Connect With Me
 
----
-
-## 📫 Connect
 <div align="center">
   <a href="https://linkedin.com/in/Mehdi-Aghasi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,13 +51,6 @@ I’m a results-driven **Back-End Developer** who thrives on solving intricate c
   <a href="https://t.me/mahdidub0911">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</div>
-
----
-
-<!-- GIF Section -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsd2sxcHB5bmZyd3V4eG92eml2djdqdTBsajFzc2cwM2EzcWVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
 </div>
