@@ -23,14 +23,7 @@ Fueled by curiosity and relentless learning, I constantly seek ways to **innovat
 
 ---
 
-## 🧠 درباره من
-من یک توسعه‌دهنده‌ی بک‌اند هستم که عاشق حل مسائل پیچیده، ساخت اپلیکیشن‌های مقیاس‌پذیر، و یادگیری مداوم هستم.  
-به اصول **SOLID** پایبندم و همیشه سعی می‌کنم کدی بنویسم که **قابل نگهداری و توسعه‌پذیر** باشد.  
-کنجکاوی و یادگیری مداوم من را به سمت **بهینه‌سازی، نوآوری و پیشروی در تکنولوژی** سوق می‌دهد.
-
----
-
-## 🛠️ Skills | مهارت‌ها
+## 🛠️ Skills 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -41,18 +34,6 @@ Fueled by curiosity and relentless learning, I constantly seek ways to **innovat
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-
----
-
-## 📂 Projects | پروژه‌ها
-- 🏥 [Hospital Management System](https://github.com/Mehdi-Aghasi/HospitalManagement)  
-  اپلیکیشن کامل مدیریت بیمارستان با ASP.NET Core و SQL Server.
-
-- 🛒 [Online Store](https://github.com/Mehdi-Aghasi/OnlineStore)  
-  برنامه فروشگاه آنلاین با ASP.NET Core و SQL Server.
-
-- 💻 [Portfolio Website](https://github.com/Mehdi-Aghasi/Portfolio)  
-  وبسایت شخصی برای نمایش پروژه‌ها و مهارت‌ها.
 
 ---
 
