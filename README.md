@@ -1,58 +1,34 @@
-<div style="border:3px solid #39d353; border-radius:15px; padding:25px; margin:15px; box-shadow:0 0 20px #39d353;">
+<div style="border:3px solid #39d353; border-radius:15px; padding:25px; margin:15px; box-shadow:0 0 20px #39d353; display:flex; flex-wrap:wrap; align-items:flex-start;">
 
-# 👋🏻💻 Hi, I’m Mehdi Aghasi  
+  <!-- بخش متن و آیکون‌ها -->
+  <div style="flex:1; min-width:250px;">
+    <h1>👋🏻💻 Hi, I’m Mehdi Aghasi</h1>
 
----
+    <h3>🚀 About Me</h3>
+    <p>
+      I’m a results-driven <b>Back-End Developer</b> who thrives on solving intricate challenges and crafting <b>high-performance, scalable systems</b>.<br>
+      ⚡ Skilled in <b>Docker</b>, <b>Git</b>, and modern back-end frameworks, I deliver <b>clean, maintainable, production-ready code</b> every time.<br>
+      ✨ <i>Life Motto:</i> “Build boldly, learn endlessly, code fearlessly.” 💪🏽
+    </p>
 
-## 🚀 About Me
-<div align="left">
-I’m a results-driven **Back-End Developer** who thrives on solving intricate challenges and crafting **high-performance, scalable systems**.  
+    <h3>### I code with:</h3>
+    <div style="margin-top:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right:10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+    </div>
+  </div>
 
-⚡ Skilled in **Docker**, **Git**, and modern back-end frameworks, I deliver **clean, maintainable, production-ready code** every time.  
-
-✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
-</div>
-
----
-
-### I code with:
-<div align="left" style="border:3px solid #39d353; border-radius:15px; padding:15px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-</div>
-
----
-
-## 📫 Connect  
-
-<div align="center">
-  <a href="https://linkedin.com/in/Mehdi-Aghasi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Mehdi-Aghasi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mahdi.aghasiwaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/mahdidub0911">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
-
----
-
-<!-- GIF Section -->
-<div align="right" style="margin-top:20px;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsd2sxcHB5bmZyd3V4eG92eml2djdqdTBsajFzc2cwM2EzcWVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="300" alt="Coding GIF"/>
-</div>
+  <!-- بخش گیف -->
+  <div style="flex:0 0 auto; margin-left:20px;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsd2sxcHB5bmZyd3V4eG92eml2djdqdTBsajFzc2cwM2EzcWVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="250" alt="Coding GIF"/>
+  </div>
 
 </div>
