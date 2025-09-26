@@ -1,7 +1,6 @@
 <div align="center" style="border:3px solid #39d353; border-radius:15px; padding:25px; margin:15px; box-shadow: 0 0 20px #39d353;">
 
 # 👋🏻💻 Hi, I’m Mehdi Aghasi  
-
 ---
 
 ### I code with:
@@ -29,6 +28,7 @@ I’m a results-driven **Back-End Developer** who thrives on solving intricate c
 ---
 
 ## 📫 Connect  
+
 <div align="center">
   <a href="https://linkedin.com/in/Mehdi-Aghasi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,10 +39,11 @@ I’m a results-driven **Back-End Developer** who thrives on solving intricate c
   <a href="mailto:mahdi.aghasiwaz@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/YourTelegramID">
+  <a href="https://t.me/mahdidub0911">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
