@@ -1,80 +1,38 @@
+<div align="center" style="border:3px solid #39d353; border-radius:15px; padding:25px; margin:15px; box-shadow: 0 0 20px #39d353;">
+
 # 👋🏻💻 Hi, I’m Mehdi Aghasi  
 
 ---
 
 ### I code with:
-### I code with:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <br/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
 
 </div>
-
 
 ---
 
 ## 🚀 About Me
-<div style="background-color:#0d1117; color:#c9d1d9; border:2px solid #39d353; border-radius:12px; padding:15px; margin:10px; box-shadow: 0 0 15px #39d353;">
 I’m a results-driven **Back-End Developer** who thrives on solving intricate challenges and crafting **high-performance, scalable systems**.  
 
-⚡ Skilled in **Docker** for containerization and **Git** for version control, I deliver **clean, maintainable, production-ready code** every time.  
+⚡ Skilled in **Docker**, **Git**, and modern back-end frameworks, I deliver **clean, maintainable, production-ready code** every time.  
 
-💡 I rigorously follow **SOLID principles** and industry best practices to ensure my projects are **robust, readable, and future-proof**.  
-Fueled by curiosity and relentless learning, I constantly seek ways to **innovate, optimize, and push technology to its limits**.  
-
-✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
-</div>
+✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽  
 
 ---
 
 ## 📫 Connect  
-<div align="center" style="background-color:#0d1117; border:2px solid #d63384; border-radius:12px; padding:15px; margin:10px; box-shadow: 0 0 15px #d63384;">
+<div align="center">
   <a href="https://linkedin.com/in/Mehdi-Aghasi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -92,6 +50,8 @@ Fueled by curiosity and relentless learning, I constantly seek ways to **innovat
 ---
 
 <!-- GIF Section -->
-<div align="center" style="background-color:#0d1117; border:2px solid #f1e05a; border-radius:12px; padding:15px; margin:10px; box-shadow: 0 0 15px #f1e05a;">
+<div align="center">
   <img src="https://your-gif-url-here.gif" width="300" alt="Coding GIF"/>
+</div>
+
 </div>
