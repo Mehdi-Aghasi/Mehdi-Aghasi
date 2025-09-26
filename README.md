@@ -49,7 +49,7 @@ I’m a results-driven **Back-End Developer** who thrives on solving intricate c
 
 <!-- GIF Section -->
 <div align="center">
-  <img src="https://your-gif-url-here.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsd2sxcHB5bmZyd3V4eG92eml2djdqdTBsajFzc2cwM2EzcWVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
 </div>
