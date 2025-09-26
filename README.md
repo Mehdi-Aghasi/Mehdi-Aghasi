@@ -1,7 +1,5 @@
 # 👋🏻💻 Hi, I’m Mehdi Aghasi
-
 ---
-
 ### I code with:
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -26,10 +24,22 @@ Fueled by curiosity and relentless learning, I constantly seek ways to **innovat
 
 ---
 
+## 📫 Connect 
 
-## 📫 Connect | ارتباط با من
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mehdi-Aghasi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehdi-Aghasi)  
+<p align="center">
+  <a href="https://linkedin.com/in/Mehdi-Aghasi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mehdi-Aghasi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mehdi@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/YourTelegramID">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 📧 ایمیل:mahdi.aghasiwaz@gmail.com
 
 ---
