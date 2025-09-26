@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
----
 
 ## 🚀 About Me
 I’m a results-driven **Back-End Developer** who thrives on solving intricate challenges and crafting **high-performance, scalable systems**.  
@@ -21,6 +20,9 @@ Skilled in **Docker** for containerization and **Git** for version control, I de
 
 I rigorously follow **SOLID principles** and industry best practices to ensure my projects are **robust, readable, and future-proof**.  
 Fueled by curiosity and relentless learning, I constantly seek ways to **innovate, optimize, and push technology to its limits**.
+
+✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
+
 
 ---
 
@@ -39,5 +41,4 @@ Fueled by curiosity and relentless learning, I constantly seek ways to **innovat
 
 ---
 
-✨ **Life Motto:** _“Build boldly, learn endlessly, code fearlessly.”_ 💪🏽
 
